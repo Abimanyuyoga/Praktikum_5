@@ -16,7 +16,7 @@ uts: 35%, uas: 35%)
 **Flowchart :**
 
 
-<img align=center width="95%" height="100%" src="https://github.com/antonmartinus72/Praktikum_5/blob/master/img/Praktikum_5_PNG.PNG">
+<img align=center width="95%" height="100%" src="https://github.com/antonmartinus72/Praktikum_5/blob/master/img/Praktikum_5_png.png">
 
 Berikut adalah dictionary yang di definisikan terlebih dahulu :
 
