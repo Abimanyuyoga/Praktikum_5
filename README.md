@@ -18,6 +18,9 @@ uts: 35%, uas: 35%)
 
 <div style="text-align:center"><img src="https://github.com/antonmartinus72/Praktikum_5/blob/master/img/Praktikum_5_png.png" /></div>
 
+<br>
+<br>
+
 Berikut adalah dictionary yang di definisikan terlebih dahulu :
 
     daftar = {}
