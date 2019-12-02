@@ -1,3 +1,4 @@
+
 # <p align=center> Praktikum 5
 
 
@@ -16,10 +17,14 @@ uts: 35%, uas: 35%)
 **Flowchart :**
 
 
-<div style="text-align:center"><img src="https://github.com/antonmartinus72/Praktikum_5/blob/master/img/Praktikum_5_png.png" /></div>
+<div align="center">
+<img src="https://github.com/antonmartinus72/Praktikum_5/blob/master/img/Praktikum_5_png.png">
+</p>
 
 <br>
 <br>
+
+## <p align=center>Pembahasan 
 
 Berikut adalah dictionary yang di definisikan terlebih dahulu :
 
@@ -29,11 +34,11 @@ Selanjutnya adalah perulangan yang digunakan :
 
     while True:
 	    statement
-Perulangan di atas adalah perulangan yang akan berjalan terus menerus, yang akan berhenti jika kode berikut di eksekusi :
+Perulangan di atas adalah perulangan yang akan berjalan terus menerus, dan akan berhenti jika kode berikut di eksekusi :
 
     if perintah.lower() == 'k':
             break
-Kode di atas berfungsi untuk menghentikan perulangan yang berlangsung yang di tulis di dalam kondisi `if`
+Kode di atas berfungsi untuk menghentikan perulangan yang berlangsung, yang di tulis di dalam kondisi `if`
 **Output :**
 
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/Keluar.JPG)
