@@ -14,7 +14,7 @@ uts: 35%, uas: 35%)
 - Buat flowchart dan penjelasan programnya pada README.md. 
 - Commit dan push repository ke github.
 
-**Flowchart :**
+### <p align=center> Flowchart :</p>
 
 
 <p align="center">
@@ -38,13 +38,14 @@ Perulangan di atas adalah perulangan yang akan berjalan terus menerus, dan akan 
 
     if perintah.lower() == 'k':
             break
-Kode di atas berfungsi untuk menghentikan perulangan yang berlangsung, yang di tulis di dalam kondisi `if`
+Kode di atas berfungsi untuk menghentikan perulangan yang berlangsung terus menerus tanpa ada kondisi untuk dipenuhi,  di tulis di dalam kondisi `if`.
 **Output :**
+
 
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/Keluar.JPG)
 
 
- jika `k` di input. `lower()` digunakan untuk mengkonversi input yang dimasukan ke bentuk ***lower case*** dan Input `k` digunakan berdasarkan perintah yang sudah di masukan dalam keterangan pada fungsi input di bawah ini :
+ Jika `k` di input dan  `lower()` digunakan untuk mengkonversi input yang dimasukan ke bentuk ***lower case*** dan Input `k` digunakan berdasarkan perintah yang sudah di masukan dalam keterangan pada fungsi input di bawah ini :
 
     perintah = input("(L) Lihat, (T) Tambah, 
 					  (U) Ubah, (H) Hapus, 
@@ -52,7 +53,9 @@ Kode di atas berfungsi untuk menghentikan perulangan yang berlangsung, yang di t
 
 **Output :**
 
+
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/1.JPG)
+
 
 ### 1. Input Data
 Kondisi berikut digunakan untuk melakukan input data seperti Nama, NIM, Nilai Tugas, UTS dan UAS :
@@ -75,7 +78,9 @@ Untuk **nilai akhir** (`n_akhir`) , di buat berdasarkan operasi dari variabel `n
 
 **Output :**
 
+
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/2.JPG)
+
 
 ### 2. Menampilkan Input Data
 Selanjutnya adalah kode yang digunakan untuk melihat input yang sudah dimasukan :
@@ -93,7 +98,9 @@ Data dalam perulangan `for` di ambil dari variabel dictionary `daftar` pada bagi
 
 **Output :**
 
+
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/3.JPG)
+
 
 ### 3. Mengubah Data
 Perintah dijalankan jika input yang di masukan adalah `u`, di dalam kondisi ini terdapat input dan kondisi, dimana jika input `nama` ada di dalam variabel `daftar.keys` maka akan muncul beberapa pilihan untuk mengubah semua data atau data tertentu saja.
@@ -118,7 +125,9 @@ Berikut kondisi yang digunakan untuk memasukan pilihan :
 
 **Output :**
 
+
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/4.JPG)
+
 
 ### 4. Mencari Data
 Berikut bagaimana mencari data yang sudah di inputkan sebelumnya :
@@ -133,26 +142,32 @@ Perbandingan untuk mencari data yang akan diubah sama seperti cara mengubah data
 
 **Output :**
 
+
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/5.JPG)
 
+
 ### 5. Menghapus data
-Sama seperti mengubah dan mencari data untuk mencari data yang akan di ubah.
+Sama seperti mengubah dan mencari data, untuk menghapus data yang dipilih :
 
     elif perintah.lower() == 'h':
 	    nama = input("Masukan nama untuk menghapus data : ")
         if nama in daftar.keys():
 	        del daftar[nama]
 
-Data yang di hapus adalah data yang di input dalam variabel `nama` dimana berisi nama yang mewakili data NIM, Nilai Tugas, UTS dan UAS.
+Data yang di hapus adalah data yang di input dalam variabel `nama` dimana berisi nama (string) yang mewakili data NIM, Nilai Tugas, UTS dan UAS.
 
 
 **Output :**
 
+
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/6.JPG)
 
+<br>
+<br>
 <p align=center>
 Anton Martinus A.A.Y
 <br>
 TI.19.A.1
 <br>
-<a>https://github.com/antonmartinus72/Praktikum_4</a>
+<a href="https://github.com/antonmartinus72/Praktikum_5">https://github.com/antonmartinus72/Praktikum_5</a>
+</p>
