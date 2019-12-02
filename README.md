@@ -17,7 +17,7 @@ uts: 35%, uas: 35%)
 ### <p align=center> Flowchart :</p>
 
 
-<p align="center">
+<p align="center" href="https://github.com/antonmartinus72/Praktikum_5">
 <img src="https://github.com/antonmartinus72/Praktikum_5/blob/master/img/Praktikum_5_png.png">
 </p>
 
