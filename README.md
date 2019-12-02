@@ -164,7 +164,7 @@ Data yang di hapus adalah data yang di input dalam variabel `nama` dimana berisi
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/6.JPG)
 
 
-Source code bisa dilihat di <a href="[https://github.com/antonmartinus72/Praktikum_5/tree/master/py](https://github.com/antonmartinus72/Praktikum_5/tree/master/py)">sini</a>.
+Source code bisa dilihat di <a href="https://github.com/antonmartinus72/Praktikum_5/tree/master/py">sini</a>.
 
 <br>
 <br>
