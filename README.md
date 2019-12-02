@@ -39,6 +39,7 @@ Perulangan di atas adalah perulangan yang akan berjalan terus menerus, dan akan 
     if perintah.lower() == 'k':
             break
 Kode di atas berfungsi untuk menghentikan perulangan yang berlangsung terus menerus tanpa ada kondisi untuk dipenuhi,  di tulis di dalam kondisi `if`.
+
 **Output :**
 
 
@@ -60,7 +61,7 @@ Kode di atas berfungsi untuk menghentikan perulangan yang berlangsung terus mene
 ### 1. Input Data
 Kondisi berikut digunakan untuk melakukan input data seperti Nama, NIM, Nilai Tugas, UTS dan UAS :
 
-    elif perintah.lower() == 'l':
+    elif perintah.lower() == 't':
 		print("Masukan data mahasiswa")
         print("...")
         nama = input("Masukan nama: ")
