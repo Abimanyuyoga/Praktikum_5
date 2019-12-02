@@ -37,7 +37,7 @@ Selanjutnya adalah perulangan yang digunakan :
 Perulangan di atas adalah perulangan yang akan berjalan terus menerus, dan akan berhenti jika kode berikut di eksekusi :
 
     if perintah.lower() == 'k':
-            break
+	    break
 Kode di atas berfungsi untuk menghentikan perulangan yang berlangsung terus menerus tanpa ada kondisi untuk dipenuhi,  di tulis di dalam kondisi `if`.
 
 **Output :**
@@ -162,6 +162,9 @@ Data yang di hapus adalah data yang di input dalam variabel `nama` dimana berisi
 
 
 ![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/6.JPG)
+
+
+Source code bisa dilihat di <a href="[https://github.com/antonmartinus72/Praktikum_5/tree/master/py](https://github.com/antonmartinus72/Praktikum_5/tree/master/py)">sini</a>.
 
 <br>
 <br>
